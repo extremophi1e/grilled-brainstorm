@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "grilled-skills",
+  "description": "Grilled brainstorming skills for Claude Code — brainstorming run with relentless grilling-style interrogation, optionally with Exa research or ADR/glossary capture.",
+  "owner": {
+    "name": "<YOUR-NAME>"
+  },
+  "plugins": [
+    {
+      "name": "grilled-brainstorm",
+      "description": "Brainstorm designs with the relentless intensity of a grilling — three variants: plain, with Exa research, and with ADR/glossary capture.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
