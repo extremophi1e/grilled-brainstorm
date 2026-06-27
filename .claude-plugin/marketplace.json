@@ -3,7 +3,7 @@
   "name": "grilled-skills",
   "description": "Grilled brainstorming skills for Claude Code — brainstorming run with relentless grilling-style interrogation, optionally with Exa research or ADR/glossary capture.",
   "owner": {
-    "name": "<YOUR-NAME>"
+    "name": "extremophi1e"
   },
   "plugins": [
     {
