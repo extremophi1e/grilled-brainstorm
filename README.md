@@ -67,4 +67,4 @@ the *orchestration* that blends them.
 
 ## License
 
-[MIT](LICENSE) © `<YOUR-NAME>`
+[MIT](LICENSE) © extremophi1e
